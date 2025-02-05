@@ -1,0 +1,7 @@
+def square_pattern(rows):
+    for i in range(rows):
+        for j in range(rows):
+            print("*", end=" ")  # Print * and stay on the same line
+        print()  # Move to the next line after each row
+
+square_pattern(5) # Example: a 5x5 square
