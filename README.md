@@ -1,1 +1,1 @@
-# Python-
+This repository contains a collection of basic Python programs demonstrating fundamental programming concepts.  These examples are suitable for beginners learning Python or anyone looking for a quick reference to common Python constructs.
